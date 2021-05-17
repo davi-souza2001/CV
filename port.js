@@ -41,3 +41,6 @@ function open_link_te(){
 function open_link_mu(){
     window.open('https://davi-souza2001.github.io/Museum-website/')
 }
+function open_link_bo(){
+    window.open('https://davi-souza2001.github.io/animateBox/')
+}
