@@ -44,3 +44,6 @@ function open_link_mu(){
 function open_link_bo(){
     window.open('https://davi-souza2001.github.io/animateBox/')
 }
+function open_link_mon(){
+    window.open('https://davi-souza2001.github.io/budgetApp/')
+}
