@@ -47,3 +47,6 @@ function open_link_bo(){
 function open_link_mon(){
     window.open('https://davi-souza2001.github.io/budgetApp/')
 }
+function open_link_fl(){
+    window.open('https://davi-souza2001.github.io/flappy-bird/')
+}
