@@ -551,7 +551,7 @@ hr{
 .right form .button-area button{
   color: #fff;
   display: block;
-  width: 160px!important;
+  width: 160px;
   height: 45px;
   outline: none;
   font-size: 18px;
