@@ -50,3 +50,12 @@ function open_link_mon(){
 function open_link_fl(){
     window.open('https://davi-souza2001.github.io/flappy-bird/')
 }
+function open_link_wr(){
+    window.open('https://github.com/davi-souza2001/workList')
+}
+function open_link_fr(){
+    window.open('https://github.com/davi-souza2001/formWithReact')
+}
+function open_link_bn(){
+    window.open('https://github.com/davi-souza2001/bot-Discord')
+}
