@@ -59,3 +59,6 @@ function open_link_fr(){
 function open_link_bn(){
     window.open('https://github.com/davi-souza2001/bot-Discord')
 }
+function open_link_mh(){
+    window.open('https://github.com/davi-souza2001/montyHall')
+}
