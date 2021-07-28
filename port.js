@@ -20,8 +20,8 @@ function open_link_ne(){
 function open_link_gn(){
     window.open('https://davi-souza2001.github.io/game-gnat/');
 };
-function open_link_hg(){
-    window.open('https://davi-souza2001.github.io/hash-game/');
+function open_link_qz(){
+    window.open('https://github.com/davi-souza2001/quizApp');
 };
 function open_link_in(){
     window.open('https://davi-souza2001.github.io/Copy-of-Instagram/');
