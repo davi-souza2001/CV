@@ -51,7 +51,7 @@ function open_link_fl(){
     window.open('https://davi-souza2001.github.io/flappy-bird/')
 }
 function open_link_wr(){
-    window.open('https://github.com/davi-souza2001/workList')
+    window.open('https://note-pad-eight.vercel.app/')
 }
 function open_link_fr(){
     window.open('https://github.com/davi-souza2001/formWithReact')
